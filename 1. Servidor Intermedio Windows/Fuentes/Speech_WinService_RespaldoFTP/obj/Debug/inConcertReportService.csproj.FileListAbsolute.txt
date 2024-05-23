@@ -1,0 +1,15 @@
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\bin\Debug\inConcertReportService.exe.config
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\bin\Debug\inConcertReportService.exe.manifest
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\bin\Debug\inConcertReportService.application
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\bin\Debug\inConcertReportService.exe
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\bin\Debug\inConcertReportService.pdb
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\bin\Debug\Renci.SshNet.dll
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\bin\Debug\Renci.SshNet.xml
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertReportService.Service1.resources
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertReportService.csproj.GenerateResource.cache
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertReportService.csproj.CoreCompileInputs.cache
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertReportService.exe.manifest
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertReportService.application
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertReportService.csproj.CopyComplete
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertReportService.exe
+D:\DriveMario\InConcert\Packs\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertReportService.pdb

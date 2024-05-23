@@ -1,0 +1,16 @@
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Release\inConcertSpeechRespaldoSFTP.exe.config
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Release\inConcertSpeechRespaldoSFTP.exe.manifest
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Release\inConcertSpeechRespaldoSFTP.application
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Release\inConcertSpeechRespaldoSFTP.exe
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Release\inConcertSpeechRespaldoSFTP.pdb
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Release\Renci.SshNet.dll
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Release\Renci.SshNet.xml
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Release\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Release\inConcertSpeechRespaldoSFTP.Service1.resources
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Release\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Release\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Release\inConcertSpeechRespaldoSFTP.exe.manifest
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Release\inConcertSpeechRespaldoSFTP.application
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Release\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Release\inConcertSpeechRespaldoSFTP.exe
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Release\inConcertSpeechRespaldoSFTP.pdb

@@ -1,0 +1,49 @@
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\bin\Debug\inConcertBPMRespaldoFTP.exe.config
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\bin\Debug\inConcertBPMRespaldoFTP.exe.manifest
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\bin\Debug\inConcertBPMRespaldoFTP.application
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\bin\Debug\inConcertBPMRespaldoFTP.exe
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\bin\Debug\inConcertBPMRespaldoFTP.pdb
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\bin\Debug\Renci.SshNet.dll
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\bin\Debug\Renci.SshNet.xml
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertBPMRespaldoFTP.csproj.AssemblyReference.cache
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertBPMRespaldoFTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertBPMRespaldoFTP.Service1.resources
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertBPMRespaldoFTP.csproj.GenerateResource.cache
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertBPMRespaldoFTP.csproj.CoreCompileInputs.cache
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertBPMRespaldoFTP.exe.manifest
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertBPMRespaldoFTP.application
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertBPMRespaldoFTP.csproj.CopyComplete
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertBPMRespaldoFTP.exe
+C:\Users\mmori\Desktop\GeneradorDeReportes\inConcertReportService\obj\Debug\inConcertBPMRespaldoFTP.pdb
+E:\Github\BPM_WinService_RespaldoFTP\bin\Debug\inConcertBPMRespaldoFTP.exe.config
+E:\Github\BPM_WinService_RespaldoFTP\bin\Debug\inConcertBPMRespaldoFTP.exe.manifest
+E:\Github\BPM_WinService_RespaldoFTP\bin\Debug\inConcertBPMRespaldoFTP.application
+E:\Github\BPM_WinService_RespaldoFTP\bin\Debug\inConcertBPMRespaldoFTP.exe
+E:\Github\BPM_WinService_RespaldoFTP\bin\Debug\inConcertBPMRespaldoFTP.pdb
+E:\Github\BPM_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+E:\Github\BPM_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+E:\Github\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.Service1.resources
+E:\Github\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.csproj.GenerateResource.cache
+E:\Github\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.csproj.CoreCompileInputs.cache
+E:\Github\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.exe.manifest
+E:\Github\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.application
+E:\Github\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.csproj.CopyComplete
+E:\Github\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.exe
+E:\Github\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.pdb
+E:\Github\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.csproj.AssemblyReference.cache
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\bin\Debug\inConcertBPMRespaldoFTP.exe.config
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\bin\Debug\inConcertBPMRespaldoFTP.exe.manifest
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\bin\Debug\inConcertBPMRespaldoFTP.application
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\bin\Debug\inConcertBPMRespaldoFTP.exe
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\bin\Debug\inConcertBPMRespaldoFTP.pdb
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.csproj.AssemblyReference.cache
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.csproj.GenerateResource.cache
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.exe.manifest
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.application
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.csproj.CopyComplete
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.exe
+C:\Users\Desarrollo Yover\Downloads\BPM_WinService_RespaldoFTP\obj\Debug\inConcertBPMRespaldoFTP.pdb

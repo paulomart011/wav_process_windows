@@ -1,0 +1,198 @@
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+D:\WorkSpace\Proyectos\ProcesoWAV\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+C:\Users\paulo.martinez1\Downloads\MW - Windows service\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+G:\paulo.martinez\MW-TEST\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+G:\paulo.martinez\MW - TEST - S3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+C:\Users\prueb\Downloads\Speech_WinService_RespaldoFTP 2\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+G:\paulo.martinez\SpeechS3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+G:\paulo.martinez\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
+D:\SpeechS3V3\Speech_WinService_RespaldoFTP\bin\Debug\System.Net.NetworkInformation.dll
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.Core.dll
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.S3.dll
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\System.Net.NetworkInformation.dll
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.Core.pdb
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.Core.xml
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.S3.pdb
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.S3.xml
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+D:\SpeechS3V3API\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.Core.dll
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.S3.dll
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\System.Net.NetworkInformation.dll
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.Core.pdb
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.Core.xml
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.S3.pdb
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.S3.xml
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+D:\SpeechS3V3APINoverite\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.config
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.application
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.exe
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\inConcertSpeechRespaldoSFTP.pdb
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.Core.dll
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.S3.dll
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.dll
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.Core.xml
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.S3.pdb
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\AWSSDK.S3.xml
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\bin\Debug\Renci.SshNet.xml
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.AssemblyReference.cache
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.Service1.resources
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.GenerateResource.cache
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe.manifest
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.application
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.csproj.CopyComplete
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.exe
+C:\Users\Paulo Martinez\Downloads\carga2\wav_process_windows\1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP\obj\Debug\inConcertSpeechRespaldoSFTP.pdb
