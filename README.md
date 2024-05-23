@@ -91,7 +91,7 @@ C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe "C:\Program Files 
 
 La fuente del desarrollo se encuentra en "1. Servidor Intermedio Windows\Fuentes\Speech_WinService_RespaldoFTP".
 
-### b. Proceso de actualización
+### c. Proceso de actualización
 
 Es probable que durante la carga algunos audios no se carguen y queden con el nombre "PROCESS_nombredelarchivo", para que se vuelvan a subir simplemente se debe quitar la palabra "PROCESS" del nombre del archivo, para ello se tiene el proceso cuyo ejecutable se encuentra en "1. Servidor Intermedio Windows/Ejecutables/ActualizarCarpeta".
 
@@ -105,7 +105,7 @@ Se deberá actualizar el archivo appSettings.json:
 
 La fuente del desarrollo se encuentra en "1. Servidor Intermedio Windows\Fuentes\ActualizarCarpetaLocal".
 
-## 3. Configurar filtrado para generación de WAV
+## 2. Configurar filtrado para generación de WAV
 El siguiente paso es modificar store procedures en la BD para que la generación de archivos WAV sea solo para ciertas campañas del ambiente.
 
 En HistoricalData, modificar el sp RepSaveFile, se agregaron las siguientes líneas:
@@ -151,7 +151,7 @@ Begin
 	Select '1~' + @InteractionId + '~' + Convert(varchar(10), @AttentionNumber)
    End
 ```
-## 4. Configurar en PBXs para carga a FTP
+## 3. Configurar en PBXs para carga a FTP
 
 Generalmente se monta el procedimiento sobre PBX que tengan el mixeo en mp3, se requiere configurar el mixeo en wav (separado del mixeo nativo) para subirlo al repositorio FTP del linux intermedio. Se debe validar que el ambiente este configurado para generar audios en mp3 (revisando el archivo tkpostrecording.sh y inconcert.conf), en caso este aplicado la configuracion en wav debera aplicarse rollback a esa configuracion en una ventana. Rollback a las configuraciones indicadas en la guia: [https://inconcert.atlassian.net/wiki/spaces/i6Docs/pages/1126301763/C+mo+setear+el+formato+de+grabaci+n+de+audios+a+.wav]
 
@@ -277,7 +277,7 @@ echo "$cmdDebian $recordingremotedir/$queueName/$out_file $recordingremotedir/$q
 ```
 Una vez realizado ello, ya comenzarán a generarse audios WAV para las campañas del punto 3, y deberían estar llegando al FTP del servidor linux. Finalmente, del servidor linux estarán siendo enviadas al SFTP final.
 
-## 5. Alarmas en PBX:
+## 4. Alarmas en PBX:
 Para el proceso se configura una alarma que valida la cantidad de archivos y en caso el número sea elevado envia una notificación email.
 
 Para ello primero se debe instalar la libreria msmtp en las PBXs (no requiere ningún reinicio):
@@ -346,7 +346,7 @@ Agregar al contrab la siguiente linea
 Con esto se estará validando cada minuto la cantidad de archivos de las carpetas de GrabacionesWAV y GrabacionesWAVFailed de las PBXs.
 Si el proceso se detiene por carga de archivos, se debe revisar que esta generando el encolamiento, posterior a ello se puede activar el proceso de control poniendo "EJECUTAR" como contenido del archivo de control.
 
-## 6. Listado en BD y en CSV:
+## 5. Listado en BD y en CSV:
 
 En un servidor Windows (puede ser el MW), crear la carpeta tmpAudios por ejemplo (modificar según el disco que se tenga):
 ```
