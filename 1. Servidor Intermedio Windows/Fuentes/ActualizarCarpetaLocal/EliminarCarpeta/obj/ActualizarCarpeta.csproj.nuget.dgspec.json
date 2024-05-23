@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SpeechS3V3APINoverite\\ActualizarCarpetaLocal\\EliminarCarpeta\\ActualizarCarpeta.csproj": {}
+    "C:\\Users\\Paulo Martinez\\Downloads\\carga2\\wav_process_windows\\1. Servidor Intermedio Windows\\Fuentes\\ActualizarCarpetaLocal\\EliminarCarpeta\\ActualizarCarpeta.csproj": {}
   },
   "projects": {
-    "D:\\SpeechS3V3APINoverite\\ActualizarCarpetaLocal\\EliminarCarpeta\\ActualizarCarpeta.csproj": {
+    "C:\\Users\\Paulo Martinez\\Downloads\\carga2\\wav_process_windows\\1. Servidor Intermedio Windows\\Fuentes\\ActualizarCarpetaLocal\\EliminarCarpeta\\ActualizarCarpeta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SpeechS3V3APINoverite\\ActualizarCarpetaLocal\\EliminarCarpeta\\ActualizarCarpeta.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo Martinez\\Downloads\\carga2\\wav_process_windows\\1. Servidor Intermedio Windows\\Fuentes\\ActualizarCarpetaLocal\\EliminarCarpeta\\ActualizarCarpeta.csproj",
         "projectName": "ActualizarCarpeta",
-        "projectPath": "D:\\SpeechS3V3APINoverite\\ActualizarCarpetaLocal\\EliminarCarpeta\\ActualizarCarpeta.csproj",
+        "projectPath": "C:\\Users\\Paulo Martinez\\Downloads\\carga2\\wav_process_windows\\1. Servidor Intermedio Windows\\Fuentes\\ActualizarCarpetaLocal\\EliminarCarpeta\\ActualizarCarpeta.csproj",
         "packagesPath": "C:\\Users\\Paulo Martinez\\.nuget\\packages\\",
-        "outputPath": "D:\\SpeechS3V3APINoverite\\ActualizarCarpetaLocal\\EliminarCarpeta\\obj\\",
+        "outputPath": "C:\\Users\\Paulo Martinez\\Downloads\\carga2\\wav_process_windows\\1. Servidor Intermedio Windows\\Fuentes\\ActualizarCarpetaLocal\\EliminarCarpeta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

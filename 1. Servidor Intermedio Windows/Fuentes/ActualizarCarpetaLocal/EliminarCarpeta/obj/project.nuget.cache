@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3yoqPJPoIg2ZbpDBDdqd5krIcl0HoD1lbAx0J5JZPKH1h1ZYvDAM3Ejq530QA5n0jvV/Nv/On7N+i7FjQEsVOA==",
+  "dgSpecHash": "zMIl1Isb3gqoHodg8ySlYANr7+ssUWh/5wSLsPJC58a8pI2HAgy5AKJ0JfiLg85pBsh0P09De2Jhe/XvLApHJg==",
   "success": true,
-  "projectFilePath": "D:\\SpeechS3V3APINoverite\\ActualizarCarpetaLocal\\EliminarCarpeta\\ActualizarCarpeta.csproj",
+  "projectFilePath": "C:\\Users\\Paulo Martinez\\Downloads\\carga2\\wav_process_windows\\1. Servidor Intermedio Windows\\Fuentes\\ActualizarCarpetaLocal\\EliminarCarpeta\\ActualizarCarpeta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paulo Martinez\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\Paulo Martinez\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
